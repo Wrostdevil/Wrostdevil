@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Shakti👋 DSA & Web Development Enthusiast -->Data Structures & Algorithms -->HTML, CSS, JavaScript<br>an aspiring Full stack developer and exploring the field of Artificial intelligence and Machine learning
+Hi, I’m Shakti👋 DSA & Web Development Enthusiast -->Data Structures & Algorithms -->HTML, CSS, JavaScript<br>An aspiring Full stack developer and exploring the field of Artificial intelligence and Machine learning
 
 
 ## 🌐 Socials:
