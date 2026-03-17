@@ -15,14 +15,6 @@ Hi, I’m Shakti👋 DSA & Web Development Enthusiast -->Data Structures & Algor
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Wrostdevil&theme=ambient_gradient&no-frame=true&no-bg=true&margin-w=4&v=2)
 
-
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Wrostdevil&theme=onedark&no-frame=true&margin-w=5&v=10)
-
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Wrostdevil&theme=onedark&no-frame=true&margin-w=5&v=11" />
-
 ## 🏆 Achievements
 ![Stats](https://github-readme-stats.vercel.app/api?username=Wrostdevil&show_icons=true&theme=radical)
 
