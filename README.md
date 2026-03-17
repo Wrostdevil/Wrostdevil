@@ -22,3 +22,4 @@ Hi, I’m Shakti👋 DSA & Web Development Enthusiast -->Data Structures & Algor
 [![](https://visitcount.itsvg.in/api?id=Wrostdevil&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![snake gif](https://github.com/Wrostdevil/Wrostdevil/blob/output/github-snake-dark.svg)
