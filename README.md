@@ -25,11 +25,15 @@ Hi, I’m Shakti👋 DSA & Web Development Enthusiast -->Data Structures & Algor
   <img src="https://trophy.ryglcloud.net/?username=Wrostdevil&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Shakti Prosad Dey's GitHub Trophies" />
 </p>
 
-## 🏆 Achievements
-![Stats](https://github-readme-stats.vercel.app/api?username=Wrostdevil&show_icons=true&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Wrostdevil&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Wrostdevil&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -37,25 +41,7 @@ Hi, I’m Shakti👋 DSA & Web Development Enthusiast -->Data Structures & Algor
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ![snake gif](https://github.com/Wrostdevil/Wrostdevil/blob/output/github-snake-dark.svg)
 
-///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
-
-
-
-## 🛠️ Languages & Tools
-<p align="center">
-  <a href="https://github.com/Wrostdevil">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Wrostdevil&langs_count=8&layout=compact&theme=nightowl&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
-
-## 🔗 Connect with Me
-<p align="left"> <a href="mailto:www.shaktidey2020@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Shakti Prosad Dey's Email"/></a> <a href="https://wa.me/9107908239341" target="_blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a></p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
-</p>
-
-<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+>
 
