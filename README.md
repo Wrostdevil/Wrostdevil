@@ -1,3 +1,10 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Shakti%20Prosad%20Dey&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=Wrostdevil">
+    <img src="https://komarev.com/ghpvc/?username=Wrostdevil&label=Profile%20views&color=00FFFF&style=flat-square" alt="Wrostdevil's profile views" />
+  </a>
+</p>
 # 💫 About Me:
 Hi, I’m Shakti👋 DSA & Web Development Enthusiast -->Data Structures & Algorithms -->HTML, CSS, JavaScript<br>An aspiring Full stack developer and exploring the field of Artificial intelligence and Machine learning
 
@@ -28,13 +35,7 @@ Hi, I’m Shakti👋 DSA & Web Development Enthusiast -->Data Structures & Algor
 ![snake gif](https://github.com/Wrostdevil/Wrostdevil/blob/output/github-snake-dark.svg)
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Shakti%20Prosad%20Dey&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Wrostdevil">
-    <img src="https://komarev.com/ghpvc/?username=Wrostdevil&label=Profile%20views&color=00FFFF&style=flat-square" alt="Wrostdevil's profile views" />
-  </a>
-</p>
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
