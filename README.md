@@ -1,10 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Shakti%20Prosad%20Dey&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
   <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
   <img alt="wrostdevil's GitHub profile" src="dark_mode.svg" />
 </picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Shakti%20Prosad%20Dey&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
+
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Wrostdevil">
     <img src="https://komarev.com/ghpvc/?username=Wrostdevil&label=Profile%20views&color=00FFFF&style=flat-square" alt="Wrostdevil's profile views" />
